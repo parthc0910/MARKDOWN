@@ -3,3 +3,7 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+- [x] IEEE
+- [x] POSTMAN
+- [ ] DVM
